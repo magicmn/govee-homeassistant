@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="192" viewBox="0 0 480 192" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+<rect x="0.5" y="0.5" width="479" height="191" rx="12" fill="#161b22" stroke="#30363d"/>
+<text x="20" y="34" font-size="11" fill="#8b949e" font-weight="600" text-anchor="start" letter-spacing="1.5">GOVEE API</text>
+<rect x="20" y="44" width="111" height="22" rx="11" fill="#3fb950" fill-opacity="0.16" stroke="#3fb950" stroke-opacity="0.5"/>
+<circle cx="33" cy="55" r="4" fill="#3fb950"/>
+<text x="43" y="59" font-size="12" fill="#3fb950" font-weight="700" text-anchor="start">OPERATIONAL</text>
+<text x="460" y="40" font-size="26" fill="#e6edf3" font-weight="700" text-anchor="end">100.0%</text>
+<text x="460" y="58" font-size="10.5" fill="#8b949e" font-weight="400" text-anchor="end">uptime / 6d</text>
+<rect x="20.0" y="80" width="70.8" height="24" rx="2" fill="#3fb950"/>
+<rect x="93.8" y="80" width="70.8" height="24" rx="2" fill="#3fb950"/>
+<rect x="167.7" y="80" width="70.8" height="24" rx="2" fill="#3fb950"/>
+<rect x="241.5" y="80" width="70.8" height="24" rx="2" fill="#3fb950"/>
+<rect x="315.3" y="80" width="70.8" height="24" rx="2" fill="#3fb950"/>
+<rect x="389.2" y="80" width="70.8" height="24" rx="2" fill="#3fb950"/>
+<text x="20" y="130" font-size="10" fill="#8b949e" font-weight="600" text-anchor="start" letter-spacing="1.2">RESPONSE TIME</text>
+<text x="460" y="130" font-size="10.5" fill="#8b949e" font-weight="400" text-anchor="end">avg 168 ms · last 18 checks</text>
+<defs><linearGradient id="lg" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#3fb950" stop-opacity="0.35"/><stop offset="1" stop-color="#3fb950" stop-opacity="0"/></linearGradient></defs>
+<path d="M20,170 L20.0,170.0 L45.9,167.5 L71.8,170.0 L97.6,160.8 L123.5,158.6 L149.4,161.8 L175.3,145.0 L201.2,164.9 L227.1,155.4 L252.9,153.4 L278.8,164.4 L304.7,160.8 L330.6,157.1 L356.5,142.0 L382.4,167.2 L408.2,158.3 L434.1,147.3 L460.0,162.7 L460.0,170 Z" fill="url(#lg)"/>
+<polyline points="20.0,170.0 45.9,167.5 71.8,170.0 97.6,160.8 123.5,158.6 149.4,161.8 175.3,145.0 201.2,164.9 227.1,155.4 252.9,153.4 278.8,164.4 304.7,160.8 330.6,157.1 356.5,142.0 382.4,167.2 408.2,158.3 434.1,147.3 460.0,162.7" fill="none" stroke="#3fb950" stroke-width="1.8" stroke-linejoin="round"/>
+<circle cx="460.0" cy="162.7" r="3" fill="#3fb950"/>
+<text x="20" y="180" font-size="10.5" fill="#8b949e" font-weight="400" text-anchor="start">openapi + app2 · hourly</text>
+<text x="460" y="180" font-size="10.5" fill="#8b949e" font-weight="400" text-anchor="end">updated 2026-11-14 11:30 UTC</text>
+</svg>
